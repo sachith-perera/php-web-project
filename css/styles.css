@@ -1,0 +1,43 @@
+.nav-bg-custom{
+    background-color: #78A255 !important;
+    
+}
+
+.drop-bg-custom{
+    background-color: #9BC27A !important;
+}
+
+
+.img-main{
+    width: 200%;
+    height: auto;
+}
+
+.card-margin{
+    margin:3rem;
+}
+
+.footer-text{
+    font-size: 11px;
+}
+
+.dropdown-menu li {
+position: relative;
+}
+.dropdown-menu .dropdown-submenu {
+display: none;
+position: absolute;
+left: 100%;
+top: -7px;
+}
+.dropdown-menu .dropdown-submenu-left {
+right: 100%;
+left: auto;
+}
+.dropdown-menu > li:hover > .dropdown-submenu {
+display: block;
+}
+
+/* .table-hover{
+    cursor: pointer !important;
+} */
